@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Murilo Vieira 
 
-- 🔭 Atualmente trabalhando como auxiliar de e-commerce
-- 🌱 Estudando Java
 - 📫 Contate-me no e-mail: murilo12super@gmail.com
 
 <div align="center">
