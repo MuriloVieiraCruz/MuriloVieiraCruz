@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Murilo+Vieira;I+am+19+years+old;I+am+in+the+process+of+studies;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Murilo+Vieira;Eu+tenho+19+anos+de+idade;Estou+em+processo+de+studos;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 <div>
     <div>
-      <h1>Welcome to my corner of the digital universe!</h1>
-      <p>I'm a tech aficionado and aspiring superhero who has a passion for web development and an undying admiration for the amazing Spider-Man. With each line of code I weave, I aim to capture the essence of both creativity and efficiency, just like our friendly neighborhood wall-crawler.</p>
+      <h1>Bem-vindo ao meu canto do universo digital!</h1>
+      <p>Sou um aficionado por tecnologia e aspirante a super-herói que tem uma paixão por desenvolvimento web e uma admiração eterna pelo espetacular Homem-Aranha. Com cada linha de código que teclo, pretendo capturar a essência da criatividade e da eficiência, assim como nosso simpático escalador de paredes do bairro.</p>
       <br>
-      <p><strong>With great power comes great responsibility</strong>, and I take that mantra seriously when crafting elegant solutions to complex problems. From designing responsive user interfaces to architecting robust backend systems, I'm always up for an exhilarating coding challenge.</p>
+      <p><strong>Com grandes poderes vem grandes responsabilidades</strong>, e levo esse mantra a sério ao elaborar soluções elegantes para problemas complexos. Desde o projeto de interfaces de usuário responsivas até a arquitetura de sistemas de back-end robustos, estou sempre pronto para um desafio de codificação emocionante.</p>
       <br>
-      <p>Remember: <em>"With great code comes great opportunities!"</em> 🚀</p>
+      <p>Remember: <em>"Com grandes códigos vem grandes oportunidades!"</em> 🚀</p>
     </div>
     <div>
       <img src="https://www.bing.com/th/id/OGC.0e7f4f54ff906081d2e497de96636475?pid=1.7&rurl=http%3a%2f%2fcdn.playbuzz.com%2fcdn%2fd123587c-743f-45e4-bb9a-ee06abc24998%2ffce6404c-61c4-4c9c-871e-4d44b0070aef.gif&ehk=aqNRk98BePtntbwaO%2b8SKth9qVQxfk7vGFkzEgBy%2bP0%3d" alt="GIF Spider-Man" width="40%" height="160px" style="margin-left: 20px;">
@@ -31,14 +31,14 @@
 
 
 ##
-### Social networks
+### Redes Sociais
 
 <div> 
   <a href="https://www.instagram.com/murilo_vieira_cruz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:murilo12super@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilo-vieira-cruz-249308243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ### Technologies
+  ### Tecnologias
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
