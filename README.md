@@ -11,7 +11,7 @@
       <br>
       <p><strong>Com grandes poderes vem grandes responsabilidades</strong>, e levo esse mantra a sério ao elaborar soluções elegantes para problemas complexos. Desde o projeto de interfaces de usuário responsivas até a arquitetura de sistemas de back-end robustos, estou sempre pronto para um desafio de codificação emocionante.</p>
       <br>
-      <p>Remember: <em>"Com grandes códigos vem grandes oportunidades!"</em> 🚀</p>
+      <p>Lembre-se: <em>"Com grandes códigos vem grandes oportunidades!"</em> 🚀</p>
     </div>
     <div>
       <img src="https://www.bing.com/th/id/OGC.0e7f4f54ff906081d2e497de96636475?pid=1.7&rurl=http%3a%2f%2fcdn.playbuzz.com%2fcdn%2fd123587c-743f-45e4-bb9a-ee06abc24998%2ffce6404c-61c4-4c9c-871e-4d44b0070aef.gif&ehk=aqNRk98BePtntbwaO%2b8SKth9qVQxfk7vGFkzEgBy%2bP0%3d" alt="GIF Spider-Man" width="40%" height="160px" style="margin-left: 20px;">
