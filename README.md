@@ -29,29 +29,48 @@
   <img src="https://streak-stats.demolab.com?user=MuriloVieiraCruz&locale=pt-br&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+# Redes Sociais
+
+<div align="center"> 
+  <a href="https://www.instagram.com/murilo_vieira_cruz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:murilo.vieracruz@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/murilo-vieira-cruz-249308243" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br>
+
+## Tecnologias
+
+<div align="center">
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
 
 
+<br>
+<br>
 
-##
-### Redes Sociais
 
-<div> 
-  <a href="https://www.instagram.com/murilo_vieira_cruz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:murilo.vieracruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-vieira-cruz-249308243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ### Tecnologias
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<div align="center">
+  <img height="120" src="https://66.media.tumblr.com/tumblr_mcfqj603fq1rfjowdo1_500.gif"/>
+</div>
+ 
   </div>
-  
-  ![Snake animation](https://github.com/MuriloVieiraCruz/MuriloVieiraCruz/blob/output/github-contribution-grid-snake.svg)
-  
+  </div>
+<div align="center">
+    <img src="https://counter3.optistats.ovh/private/webcontadores.php?c=hhyfylqjhre7t6wsdbj68uewz9fun1ye" border="0" title="contador de acessos" alt="contador de acessos">
+</div>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
