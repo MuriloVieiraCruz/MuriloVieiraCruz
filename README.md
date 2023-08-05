@@ -69,7 +69,7 @@
   </div>
   </div>
 <div align="center">
-    <img src="https://counter3.optistats.ovh/private/webcontadores.php?c=hhyfylqjhre7t6wsdbj68uewz9fun1ye" border="0" title="contador de acessos" alt="contador de acessos">
+    </a><noscript><a href="https://www.webcontadores.com" title="contador de visitas html"><img src="https://counter3.optistats.ovh/private/webcontadores.php?c=u5qe78ydq71dc63x7w8bnxahnenlwftc" border="0" title="contador de visitas html" alt="contador de visitas html"></a></noscript>
 </div>
 </div>
 
