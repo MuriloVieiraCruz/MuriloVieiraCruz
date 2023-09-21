@@ -49,12 +49,9 @@
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    </div>
             
-<br>
-<br>
-
-<div align="center">
-  <img height="120" src="https://66.media.tumblr.com/tumblr_mcfqj603fq1rfjowdo1_500.gif"/>
-</div>
+</br>
+</br>
+</br>
  
   </div>
   </div>
