@@ -2,8 +2,8 @@
 
 <div align="center" >
     <div>
-      <h1>Bem-vindo ao meu canto do universo digital!</h1>
-      <p>Sou um aficionado por tecnologia e aspirante a super-herói que tem uma paixão por desenvolvimento e uma admiração eterna pelo espetacular Homem-Aranha. Com cada linha de código que teclo, pretendo capturar a essência da criatividade e da eficiência, assim como nosso simpático escalador de paredes do bairro.</p>
+      <h1>Bem-vindo ao meu espaço digital!</h1>
+      <p>Sou um aficionado por tecnologia e aspirante a super-herói que tem uma paixão por desenvolvimento e uma admiração pelo Homem-Aranha. Com cada linha de código que teclo, pretendo capturar a essência da criatividade e da eficiência, assim como nosso simpático escalador de paredes.</p>
       <br>
       <p><strong>Com grandes poderes vem grandes responsabilidades</strong>, e levo esse mantra a sério ao elaborar soluções elegantes para problemas complexos. Desde o projeto de interfaces de usuário responsivas até a arquitetura de sistemas de back-end robustos, estou sempre pronto para um desafio de codificação emocionante.</p>
       <br>
