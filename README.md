@@ -2,12 +2,7 @@
 
 <div align="center" >
     <div>
-      <h1>Bem-vindo ao meu espaço digital!</h1>
-      <p>Sou um aficionado por tecnologia e aspirante a super-herói que tem uma paixão por desenvolvimento e uma admiração pelo Homem-Aranha. Com cada linha de código que teclo, pretendo capturar a essência da criatividade e da eficiência, assim como nosso simpático escalador de paredes.</p>
-      <br>
-      <p><strong>Com grandes poderes vem grandes responsabilidades</strong>, e levo esse mantra a sério ao elaborar soluções elegantes para problemas complexos. Desde o projeto de interfaces de usuário responsivas até a arquitetura de sistemas de back-end robustos, estou sempre pronto para um desafio de codificação emocionante.</p>
-      <br>
-      <p>Lembre-se: <em>"Com grandes códigos vem grandes oportunidades!"</em> 🚀</p>
+      <p><em>"Com grandes códigos vem grandes oportunidades!"</em> 🚀</p>
     </div>
     <div>
       <img src="https://www.bing.com/th/id/OGC.0e7f4f54ff906081d2e497de96636475?pid=1.7&rurl=http%3a%2f%2fcdn.playbuzz.com%2fcdn%2fd123587c-743f-45e4-bb9a-ee06abc24998%2ffce6404c-61c4-4c9c-871e-4d44b0070aef.gif&ehk=aqNRk98BePtntbwaO%2b8SKth9qVQxfk7vGFkzEgBy%2bP0%3d" alt="GIF Spider-Man" width="40%" height="160px" style="margin-left: 20px;">
@@ -15,11 +10,6 @@
 </div>
 
   ##
-
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloVieiraCruz&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" alt="Murilo Vieira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloVieiraCruz&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
-</div>
 
 <div  align="center"> 
     <div align="left">
